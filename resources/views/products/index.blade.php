@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h3 class="text-center my-4">Toko Online Wahyudi</h3>
+                    <h3 class="text-center my-4">Online Shop</h3>
                     <h5 class="text-center"> www.tokoonline.com</a></h5>
                     <hr>
                 </div>
